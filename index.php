@@ -1,3 +1,3 @@
 <?php
-echo "Update code";
+echo "Update kedua kali";
 ?>
